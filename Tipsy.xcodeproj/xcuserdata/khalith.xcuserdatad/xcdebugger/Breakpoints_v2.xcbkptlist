@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9D655A2B-90F8-460C-88DC-E30C5B7EACDA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "097BC1DC-BF7A-4843-846B-96BE35064FEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/CalculateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CalculateViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "097BC1DC-BF7A-4843-846B-96BE35064FEB - d4de0de6b4205eeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculateViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipsy.CalculateViewController"
+                  moduleName = "Tipsy.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khalith/Desktop/github/Tipsy-iOS13-LayoutPractice/Tipsy-iOS13-LayoutPractice/Tipsy/CalculateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "097BC1DC-BF7A-4843-846B-96BE35064FEB - f940227c702bebe3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculateViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipsy.CalculateViewController&gt;"
+                  moduleName = "Tipsy.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khalith/Desktop/github/Tipsy-iOS13-LayoutPractice/Tipsy-iOS13-LayoutPractice/Tipsy/CalculateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "097BC1DC-BF7A-4843-846B-96BE35064FEB - b6c2b62b6d565441"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculateViewController.__deallocating_deinit"
+                  moduleName = "Tipsy.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khalith/Desktop/github/Tipsy-iOS13-LayoutPractice/Tipsy-iOS13-LayoutPractice/Tipsy/CalculateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "097BC1DC-BF7A-4843-846B-96BE35064FEB - 1297cbfa2498801f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculateViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipsy.CalculateViewController"
+                  moduleName = "Tipsy.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khalith/Desktop/github/Tipsy-iOS13-LayoutPractice/Tipsy-iOS13-LayoutPractice/Tipsy/CalculateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "097BC1DC-BF7A-4843-846B-96BE35064FEB - a3176cfb4bd91e63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculateViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipsy.CalculateViewController&gt;"
+                  moduleName = "Tipsy.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khalith/Desktop/github/Tipsy-iOS13-LayoutPractice/Tipsy-iOS13-LayoutPractice/Tipsy/CalculateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
