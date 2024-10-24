@@ -24,10 +24,20 @@ class CalculateViewController: UIViewController {
     }
         
     @IBAction func calculatePressed(_ sender: UIButton) {
+        
+        
     }
     @IBAction func stepperValueChanged(_ sender: UIStepper) {
+        splitLabel.text = String(Int(sender.value))
     }
+    
     @IBAction func tipChanged(_ sender: UIButton) {
+        
+        rwenty.isSelected = false
+        zero.isSelected = false
+        ten.isSelected = false
+        sender.isSelected = true
+        
     }
     
 }
